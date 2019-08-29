@@ -45,3 +45,4 @@ c=(a+b)/2;
 err=abs(b-a);
 yc=f(c);
 
+end
