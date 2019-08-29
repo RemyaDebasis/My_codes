@@ -1,6 +1,6 @@
 function [c,err,yc]=bisect(f,a,b,delta)
 
-%Input    - f is the function 
+Input    - f is the function 
 %	         - a and b are the left and right endpoints
 %	         - delta is the tolerance
 %Output - c is the zero
